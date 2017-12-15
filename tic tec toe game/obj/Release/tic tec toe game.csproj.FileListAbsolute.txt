@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\tic tec toe game\tic tec toe game\bin\Release\tic tec toe game.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\tic tec toe game\tic tec toe game\bin\Release\tic tec toe game.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\tic tec toe game\tic tec toe game\bin\Release\tic tec toe game.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\tic tec toe game\tic tec toe game\obj\Release\tic_tec_toe_game.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\tic tec toe game\tic tec toe game\obj\Release\tic_tec_toe_game.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\tic tec toe game\tic tec toe game\obj\Release\tic_tec_toe_game.Form3.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\tic tec toe game\tic tec toe game\obj\Release\tic_tec_toe_game.Form4.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\tic tec toe game\tic tec toe game\obj\Release\tic_tec_toe_game.Form5.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\tic tec toe game\tic tec toe game\obj\Release\tic_tec_toe_game.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\tic tec toe game\tic tec toe game\obj\Release\tic tec toe game.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\tic tec toe game\tic tec toe game\obj\Release\tic tec toe game.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\tic tec toe game\tic tec toe game\obj\Release\tic tec toe game.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\tic tec toe game\tic tec toe game\obj\Release\tic tec toe game.pdb
